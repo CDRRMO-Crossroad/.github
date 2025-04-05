@@ -24,7 +24,7 @@ Crossroad aims to digitize the process of road crash reporting and emergency man
 
 We welcome contributions from the community to help improve and expand the Crossroad project. If you are interested in contributing, please follow these guidelines:
 
-- **Ask jhaxce for Access** find that person.
+- **Ask jhaxce for Access:** find the person's contact details.
 - **Fork the Repository:** Create a personal copy of the repository by forking it.
 - **Create a Branch:** Create a new branch for your feature or bug fix.
     ```bash
