@@ -17,7 +17,7 @@ Crossroad aims to digitize the process of road crash reporting and emergency man
 - **Real-Time Reporting:** Users can report road crashes in real-time using a user-friendly mobile application.
 - **Geolocation Integration:** Automatically capture the location of incidents using GPS technology.
 - **Emergency Notifications:** Send instant notifications to emergency responders and relevant authorities.
-- **Data Analytics:** Utilize collected data to identify accident-prone areas and implement preventive measures.
+- ~~**Data Analytics:** Utilize collected data to identify accident-prone areas and implement preventive measures.~~
 - **User-Friendly Interface:** Designed with a focus on ease of use for both the public and emergency personnel.
 
 ## Contribution Guidelines
